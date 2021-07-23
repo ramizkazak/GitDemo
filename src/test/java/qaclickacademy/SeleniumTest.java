@@ -22,5 +22,10 @@ public class SeleniumTest {
 	public void elementsPT() {
 		System.out.println("Elements for PT testing");
 	}
+	
+	@Test 
+	public void elementsOPT() {
+		System.out.println("Elements for OPT testing");
+	}
 
 }
