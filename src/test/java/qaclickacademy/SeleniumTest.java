@@ -11,5 +11,16 @@ public class SeleniumTest {
 		System.out.println("WebAutomation");
 		
 	}
+	
+	
+	@Test 
+	public void elementsUI() {
+		System.out.println("Elements for UI testing");
+	}
+	
+	@Test 
+	public void elementsPT() {
+		System.out.println("Elements for PT testing");
+	}
 
 }
